@@ -1,5 +1,5 @@
 # Project Name
--Complete ladning page
+-Complete landing page
 ## Description
 -This is a basic webpage that I am working on.
 ## Built With
@@ -13,7 +13,7 @@
 
 ## What I Learned
 -I learned more about how to use flexbox
--I also learned you can use your parent div with a child like h2 or p to only edit the child in that div instead of the whoel pages h2 or p"s
+-I also learned you can use your parent div with a child like h2 or p to only edit the child in that div instead of the whole pages h2 or p"s
 
 
 ## Future Improvements
