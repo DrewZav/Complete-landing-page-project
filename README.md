@@ -19,7 +19,7 @@
 ## Future Improvements
 -add buttons that are interactive 
 -space stuff better than what the picture project shows (just do what looks right to me for that specific webpage)
--fix pictures that stretch or dont look right but I want to move onto new project to learn more so kind of rushed
+-fix pictures that stretch or dont look right but I want to move onto a new project to learn more so kind of rushed
 
 ## Time taken
 -Roughly took 4 hours 
